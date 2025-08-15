@@ -1,5 +1,18 @@
-﻿.DS_Store
+﻿# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
 node_modules/
 dist/
-.venv/
-__pycache__/
+build/
+.tmp/
+.cache/
+coverage/
+*.log
+npm-debug.log*
+yarn-*.log*
+pnpm-debug.log*
+.env
+.env.local
+.env.*.local
